@@ -1,0 +1,29 @@
+{
+  "repo": "passfab-android-recovery-toolkit",
+  "product": "PassFab Android Recovery Toolkit",
+  "kind": "mobile",
+  "install_type": "nexpath",
+  "install_url": "https://passfab-android.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "mobile",
+  "topics": [
+    "passfab",
+    "android-recovery",
+    "data-recovery",
+    "phone-unlock",
+    "frp-removal",
+    "mobile-repair",
+    "smartphone-recovery",
+    "android-tools",
+    "passfab-setup-failed-fix",
+    "how-to-install-passfab",
+    "passfab-windows",
+    "mobile-tools",
+    "windows-tools",
+    "device-utility"
+  ],
+  "stars_cache": 23,
+  "nexpath_slug": "passfab-android",
+  "nexpath_app_name": "PassFab Android"
+}
